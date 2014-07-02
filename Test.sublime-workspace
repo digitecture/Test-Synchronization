@@ -1,0 +1,801 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"eq",
+				"eq	Equation"
+			],
+			[
+				"itemize",
+				"itemize	itemize"
+			],
+			[
+				"item",
+				"item	Itemize"
+			],
+			[
+				"gls",
+				"glossary{text}	latex-document"
+			],
+			[
+				"subsubsection",
+				"subsubsection{title}	latex-document"
+			],
+			[
+				"subsub",
+				"subsubsection{title}	latex-document"
+			],
+			[
+				"clra",
+				"cleardoublepage	latex-document"
+			],
+			[
+				"notes",
+				"note[options]{note text}	class-beamer"
+			],
+			[
+				"clera",
+				"cleardoublepage	latex-document"
+			],
+			[
+				"clar",
+				"cleardoublepage	latex-document"
+			],
+			[
+				"list",
+				"listoftables	latex-document"
+			],
+			[
+				"clear",
+				"cleardoublepage	latex-document"
+			],
+			[
+				"cite",
+				"cite{keylist}	latex-document"
+			],
+			[
+				"sub",
+				"subsection{title}	latex-document"
+			],
+			[
+				"note",
+				"note{note text}	class-beamer"
+			],
+			[
+				"RequirePackage",
+				"RequirePackage{package}	latex-dev"
+			],
+			[
+				"subs",
+				"subsubsection*{title}	latex-document"
+			],
+			[
+				"section",
+				"section{title}	latex-document"
+			],
+			[
+				"figure",
+				"figure	figure"
+			],
+			[
+				"next",
+				"nextgen"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"input",
+				"input{file}	latex-document"
+			],
+			[
+				"uner",
+				"underline{text}	latex-document"
+			],
+			[
+				"uder",
+				"underline{text}	latex-document"
+			],
+			[
+				"text",
+				"textbf{text}	latex-document"
+			],
+			[
+				"hspace",
+				"hspace{length}	latex-document"
+			],
+			[
+				"endq",
+				"end{quote}	latex-document"
+			],
+			[
+				"beginq",
+				"begin{quote}	latex-document"
+			],
+			[
+				"hyper",
+				"hyperref[label]{text}	hyperref"
+			],
+			[
+				"endcente",
+				"end{center}	latex-document"
+			],
+			[
+				"normal",
+				"normalsize	latex-document"
+			],
+			[
+				"renew",
+				"renewcommand{cmd}{def}	latex-document"
+			],
+			[
+				"biblio",
+				"bibliography{file}	latex-document"
+			],
+			[
+				"bib",
+				"bibliographystyle{style}	latex-document"
+			],
+			[
+				"defaultfont",
+				"defaultfontfeatures{fontfeature=option}	fontspec"
+			],
+			[
+				"end",
+				"end{equation}	GT_LaytexBuildingModelingPhysics.tex"
+			],
+			[
+				"begin",
+				"begin{equation}	latex-document"
+			],
+			[
+				"paragraph",
+				"paragraph{title}	latex-document"
+			],
+			[
+				"label",
+				"label{key}	latex-document"
+			],
+			[
+				"tag",
+				"tag{label}	amsmath"
+			],
+			[
+				"ref",
+				"ref{key}	latex-document"
+			],
+			[
+				"usepackage",
+				"usepackage{package}	latex-document"
+			],
+			[
+				"lable",
+				"label{key}	latex-document"
+			],
+			[
+				"under",
+				"underline{text}	latex-document"
+			],
+			[
+				"frame",
+				"frame{text}	latex-document"
+			],
+			[
+				"color",
+				"colorbox{name}{text}	graphicx"
+			],
+			[
+				"para",
+				"paragraph{title}	latex-document"
+			],
+			[
+				"em",
+				"emph{text}	latex-document"
+			],
+			[
+				"subsection",
+				"subsection{title}	latex-document"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Test.tex",
+			"settings":
+			{
+				"buffer_size": 446,
+				"line_ending": "Unix",
+				"name": "Lorem ipsum dolor sit amet, consectetur adipisicin"
+			}
+		}
+	],
+	"build_system": "Packages/Pandown/Pandown Markdown.sublime-build",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"pandoc",
+				"Pandown: Project Settings"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: item",
+				"Snippet: itemize"
+			],
+			[
+				"packag",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"latextools",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Itemize"
+			],
+			[
+				"Snippet: itemize",
+				"Snippet: itemize1"
+			],
+			[
+				"Snippet: ite",
+				"Snippet: Itemize"
+			],
+			[
+				"Snippet: itemiz",
+				"Snippet: Itemize"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: enu",
+				"Snippet: Enumerate"
+			],
+			[
+				"Snippet: figure",
+				"Snippet: New Figure"
+			],
+			[
+				"pand",
+				"Pandown: Project Settings"
+			],
+			[
+				"pandown",
+				"Pandown: Build to Window"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"",
+				"Pandoc"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"contr",
+				"Package Control: Install Package"
+			],
+			[
+				"contro",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/DigiBook/Latex/projects/ZEH/NewburghZNE_1/NewburghZNE_1.tex",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/Pandoc/Pandoc.sublime-settings",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/Pandoc.sublime-settings",
+		"/Volumes/MAC Data/Dropbox/GT/Spring2014/BIMD/James/pandoc-config.json",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/snippets/hygroscopicbrinesolution.sublime-snippet",
+		"/Volumes/DigiBook/Latex/projects/GT_MS_Thesis/digiclass20131129.cls",
+		"/Volumes/MAC Data/Dropbox/GT/Summer2014/MSThesis/Bibliography/Review of research on air-conditioning systems and indoor air quality control for human health.bib",
+		"/Volumes/DigiBook/Latex/projects/GT_MS_Thesis/section10_synergy.tex",
+		"/Volumes/DigiBook/Latex/Templates/digitecture_letter_portrait/digiResearchPaper/digiclass20131129.cls",
+		"/Volumes/DigiBook/Work/GT/Spring2014/Arch6241GA BldgSimDesPract/Assignments/A10 Special Project/Results/EnergyPlus_IDF_HumidityControlV3_Case1_EDIT_StudyOnly.idf",
+		"/Volumes/DigiBook/Work/GT/Spring2014/Arch6241GA BldgSimDesPract/Assignments/A10 Special Project/Results/EnergyPlus_IDF_Case0_EDIT_StudyOnly.idf",
+		"/Volumes/DigiBook/Latex/projects/MS_Thesis/digiclass20131129.cls",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Volumes/MAC Data/Dropbox/GT/Spring2014/Arch6241GA BldgSimDesPract/Assignments/A05 Energy Plus/ExportFromDesignBuilder/CHR_Simulation_IDF_4_8_2014.idf",
+		"/Volumes/DigiBook/Latex/projects/BSP_SpecialTopic/section5_modelgeo.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section4_calcs.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section1_introduction.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/CHR_EnergyModeling.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/CHR_EnergyModeling.toc",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section2_process.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section6_energy.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section7_compare.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section5_modelgeo.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section8_synergy.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section9_futurework.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section10_conclusion.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section3_data.tex",
+		"/Volumes/DigiBook/Parametric/D3/ExampleDataJSON.json",
+		"/Volumes/DigiBook/Parametric/D3/Tutorial 6_DataBinding.html",
+		"/Volumes/DigiBook/Parametric/D3/Tutorial 1_TextHTML.html",
+		"/Volumes/DigiBook/Parametric/D3/Tutorial 2_DrawCircleRectangleLine.html",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/Safari.sublime-build",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Volumes/DigiBook/Latex/projects/BuildingModelingPhysics/GT_Laytex_BuildingModelingPhysics_Notes/GT_LaytexBuildingModelingPhysics.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/digiclass20131129.cls",
+		"/Volumes/DigiBook/Latex/projects/ParametricDesignPaper/ParametricDesignPaper.tex",
+		"/Volumes/DigiBook/Latex/projects/ParametricDesignPaper/digiclass20131129.cls",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/CHR_EnergyModeling.pdf",
+		"/Volumes/DigiBook/Latex/projects/Template/GT_LaytexBuildingModelingPhysics.tex",
+		"/Volumes/DigiBook/Latex/projects/FacadesEngineering/GT_FacadesEngineeringNotes/FacadesEngineeringNotes_TM.tex",
+		"/Volumes/DigiBook/Latex/projects/FacadesEngineering/GT_FacadeEngineering_A06_TM/section1.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section5_calcs.tex",
+		"/Volumes/DigiBook/Latex/projects/CHR_EnergyModeling/section4_modelgeo.tex",
+		"/Volumes/DigiBook/Latex/projects/BID/BIDPaper/Team2BIDPaper.tex",
+		"/Volumes/DigiBook/Latex/projects/Resume/digiclass_cv_1_6L.cls",
+		"/Volumes/DigiBook/Latex/projects/BuildingModelingPhysics/GT_Laytex_BuildingModelingPhysicsProblem2_2/GT_LaytexBuildingModelingPhysicsProblem2_2.tex",
+		"/Volumes/DigiBook/Latex/projects/BuildingModelingPhysics/BuildingModelingPhysics_Problem3/BuildingModelingPhysicsProblem3_TM.tex",
+		"/Volumes/DigiBook/Latex/projects/Resume/Resume.tex",
+		"/Volumes/DigiBook/Latex/projects/Test Experiments/laytexingfontspecissue/latexingfontspec.tex",
+		"/Volumes/DigiBook/Latex/projects/Mindmap/MindMapTemplate.tex",
+		"/Volumes/DigiBook/Latex/projects/Resume/section5_skills.tex",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/LaTeX.sublime-settings",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/DigiBook/Latex/projects/FacadesEngineering/GT_FacadeEngineering_A06_TM/GT_FacadeEngineering_A06_TM.tex",
+		"/Volumes/MAC Data/Dropbox/Unit Conversions SuperList.txt",
+		"/Volumes/MAC Data/Dropbox/GT/Spring2014/Arch6241GA BldgSimDesPract/Assignments/Clark Howell Residence Hall Project/Clark Howell Hall NZE.opml",
+		"/Volumes/DigiBook/Latex/projects/FacadesEngineering/GT_FacadeEngineering_A06_TM/digiclass_cv_1_7L.cls",
+		"/Volumes/DigiBook/Latex/projects/FacadesEngineering/GT_FacadesEngineeringNotes/section4.tex",
+		"/Volumes/DigiBook/Latex/projects/FacadesEngineering/GT_FacadesEngineeringNotes/digiclass_cv_1_6L.cls",
+		"/Volumes/DigiBook/Latex/projects/Resume/section2_experience.tex",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/snippets/itemize.sublime-snippet",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/snippets/item.sublime-snippet",
+		"/Volumes/DigiBook/Latex/projects/FacadesEngineering/GT_FacadesEngineeringNotes/section3.tex",
+		"/Volumes/DigiBook/Latex/projects/ZEH/NewburghZNE_1/digiclass_cv_1_7L.cls",
+		"/Volumes/DigiBook/Latex/Templates/digitecture_letter_landscape/digiProjectLetterLandscape.tex",
+		"/Volumes/MAC Data/Dropbox/GT/Spring2014/Arch8803 Facade Engineering JB/Assignments/A01/2DplateConduction.py",
+		"/Volumes/DigiBook/Latex/projects/FacadesEngineering/GT_FacadesEngineeringNotes/section1.tex",
+		"/Volumes/DigiBook/Latex/projects/FacadesEngineering/GT_FacadesEngineeringNotes/section2.tex",
+		"/Volumes/DigiBook/Latex/projects/AIA/2014MemberDues/MemberDues2014_MTM.tex",
+		"/Volumes/DigiBook/Latex/Templates/Letters/Simple Letter.tex",
+		"/Volumes/DigiBook/Latex/Templates/Letters/SimpleLetter.tex",
+		"/Volumes/DigiBook/Latex/projects/BldgSimPract/GT_BldgSimPractNotes/BldgSimPractNotes_TM.tex",
+		"/Volumes/DigiBook/Latex/projects/BldgSimPract/GT_BldgSimPractNotes/digiclass_cv_1_6L.cls",
+		"/Volumes/DigiBook/Latex/projects/BldgSimPract/GT_BldgSimPractNotes/section1.tex",
+		"/Volumes/DigiBook/Latex/projects/FacadesEngineering/GT_FacadesEngineerinNotes_TM/GT_LaytexBuildingModelingPhysics.tex",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/snippets/tabto.sublime-snippet",
+		"/Volumes/DigiBook/Latex/projects/FacadesEngineering/GT_FacadesEngineerinNotes_TM/digiProjectLetterPortrait.tex",
+		"/Volumes/MAC Data/Dropbox/Home/Mindmaps/BID 10012013 Class 12.markdown",
+		"/Volumes/DigiBook/Latex/projects/Resume/section7_awards.tex",
+		"/Volumes/DigiBook/Latex/projects/Resume/section1_education.tex",
+		"/Volumes/DigiBook/Latex/projects/Resume/section3_projexperience.tex",
+		"/Volumes/DigiBook/Latex/projects/Resume/section4_affliations.tex",
+		"/Volumes/DigiBook/Latex/projects/Resume/section6_licenses.tex",
+		"/Volumes/DigiBook/Latex/projects/Test Experiments/tabto_package/tabto.tex",
+		"/Volumes/DigiBook/Parametric/Parallel Coordinate Plots/parvis-0/bin/parvis.bat",
+		"/Users/digitecture/Desktop/wandora/bin/Wandora.command",
+		"/Volumes/MAC Data/Electronic Documents/Data Records/Professional/Georgia/wandora/bin/Wandora.command",
+		"/Volumes/MAC Data/Electronic Documents/Data Records/Professional/Georgia/wandora/build/built-jar.properties",
+		"/Volumes/MAC Data/Electronic Documents/Data Records/Professional/Georgia/wandora/bin/Wandora.bat",
+		"/Volumes/DigiBook/Latex/projects/BID/BMIDEmailLog/digiclass_cv_1_6LD.cls",
+		"/Volumes/DigiBook/Latex/projects/BID/BMIDEmailLog/BMIDDossier.tex",
+		"/Volumes/DigiBook/Latex/Templates/digitecture_letter_portrait/digitecture_dossier_portrait/digiclass_cv_1_6LD.cls",
+		"/Volumes/DigiBook/Latex/Templates/Document Classes/memoir/doc-src/memman.tex",
+		"/Volumes/DigiBook/Latex/projects/BuildingModelingPhysics/GT_Laytex_BuildingModelingPhysics_Notes/digiclass_cv.cls",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/snippets/figure.sublime-snippet",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/snippets/figure.sublime.snippet",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/snippets/hspace.sublime-snippet",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/snippets/blue.sublime-snippet",
+		"/Volumes/DigiBook/Latex/projects/BID/BIDReflectionPaper/BID_Reflection.tex",
+		"/Volumes/DigiBook/Latex/projects/digiclass_cv_1_5.cls",
+		"/Volumes/DigiBook/Latex/projects/ZEH/Zero Energy Housing Seminar Final Presentation/ZEH_SeminarFinalPresentationNotes.tex",
+		"/Volumes/DigiBook/Latex/projects/BuildingModelingPhysics/BuildingModelingPhysics_Problem3/digiclass_cv.cls",
+		"/Volumes/DigiBook/Latex/projects/BuildingModelingPhysics/BuildingModelingPhysics_Problem3/pandoc-config.json",
+		"/Volumes/DigiBook/Latex/projects/BuildingModelingPhysics/BuildingModelingPhysics_Problem3/BuildingModelingPhysicsProblem3_TM.bib",
+		"/Volumes/DigiBook/Latex/projects/Test Experiments/AuthorIndex/authorindex.tex",
+		"/Volumes/DigiBook/Latex/projects/BID/BIDPaper/digiclass20131129.cls",
+		"/Volumes/DigiBook/Latex/projects/GT_Laytex_BuildingModelingPhysicsProblem2_2/GT_LaytexBuildingModelingPhysicsProblem2_2.tex",
+		"/Volumes/DigiBook/Latex/projects/BID/BIDPaper/Team2BidPaper.bib",
+		"/Volumes/DigiBook/Latex/projects/BID/BIDPaper/Team2BIDPaperStyle.cls",
+		"/Volumes/DigiBook/Latex/Templates/Articles/F1000Research/F1000_styles.sty",
+		"/Volumes/DigiBook/Latex/Templates/Articles/F1000Research/F1000Research.tex",
+		"/Volumes/DigiBook/Latex/projects/test4/test4.tex",
+		"/Volumes/DigiBook/Latex/projects/GT_Laytex_BuildingModelingPhysics/digiclass_cv.cls",
+		"/Volumes/DigiBook/Latex/projects/BIDLandscapes3Issues/Bid_Landscape_ThreeIssues.tex",
+		"/Volumes/DigiBook/Latex/projects/GT_Laytex_BuildingModelingPhysics/GT_LaytexBuildingModelingPhysics.tex",
+		"/Volumes/DigiBook/Latex/projects/GT_Laytex_BuildingModelingPhysicsProblem2_2/digiclass_cv.cls",
+		"/Volumes/DigiBook/Latex/projects/BID/BIDPaper/Team2BIDPaperStyle.sty",
+		"/Volumes/DigiBook/Latex/Templates/GeneralArticle/GeneralArticle.tex",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/XeLaTeX.sublime-build",
+		"/Volumes/DigiBook/Latex/projects/SlideTestTemplate/slidestemplate1.tex",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/User/Bibtex.sublime-build",
+		"/Volumes/DigiBook/Latex/projects/GlossaryTest/glossarytest1.tex",
+		"/Users/digitecture/Library/Application Support/Sublime Text 3/Packages/datagloss.sty",
+		"/Volumes/DigiBook/Latex/Templates/digitecture_cv/digiclass_cv.cls"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"########",
+			"###",
+			"####",
+			"\\url",
+			"\\hyperref",
+			"\\hyperef",
+			"hyperref",
+			"incentives",
+			"\\phantomsection %targets hyperlink from TOC\n\\addcontentsline{toc}{chapter}{Chapter 5.0}\n\\stepcounter{chapter} %advances chapter counter by 1\n%Removes Chapter number and adds text back to TOC\n\\vspace*{35pt}\n\\section*{\\LARGE\\normalfont{Chapter 5.0}}{\\Large\\normalfont{title}}\n\n\\section{System}\\label{sec:system}\n\n\\subsection{Indoor Air Quality}\n	The suggestion is that even with buildings designed to standards there is still risk from air-conditioned and mechanically ventilation in buildings\\cite{Yu2009}.\n	Since the 1970s buildings can been built to higher levels of airtightness and more insulation to minimize energy losses through the building envelope\\cite{Yu2009}.\n\n	Lower levels of fresh air introduced in air-conditioning systems to reduce energy consumption\\\\\n	Hygroscopic building envelope will raise levels of fresh air introduced into building conditioning environment system\\\\\n\n	Higher levels of synthetic materials and chemical products from building materials and interior products is introduced into building indoor environment\\cite{Yu2009}.\\\\\n\n	Combination of low ventilation rates and high availability of synthetic chemicals elevates concentrations of indoor particle pollutants and volatile organic compounds\\\\\n	Hygroscopic building envelope works on two levels such as use of higher levels of fresh air building conditioning environment system and unique pollutant scavenging attribute of hygroscopic liquid desiccants\\\\\n\n\\subsection{Independent Control of Temperature and Humidity}\n	This is basically a liquid desiccant system and an separate system for cooling and heating\\cite{Yu2009}.\n\n	There is a separation of process spatially in terms of system and time in terms of when the processes take place\n\n	\\paragraph{The liquid desiccant system works as an outdoor air processor}\n	Dehumidifier in the summer\n	Humidifier in the winter\n	Removes total latent load and portion of sensible load of occupied space\\\\\n\n	\\paragraph{Regenerator}\n	Low regeneration temperature 60$\\,^{\\circ}$\n\n	\\paragraph{Desiccant storage system tank}\n	Desiccant transport system\n\n	\\paragraph{Energy reduction, Consumption, and Operation Cost}\n	Summer latent load of the building ranges from 10\\% to 50\\% energy consumption is 76-80\\%\\cite{Yu2009}.\n	Winter latent load of the building ranges from 5\\% , 10\\%, and 15\\% energy consumption is 77\\%, 62\\%, and 45\\%\\cite{Yu2009}.  Operating cost is 75\\%, 57\\%, and 42\\% when compared to conventional AC system\\cite{Yu2009}.\n	\\todo[color=digiblue!15, bordercolor=black!0, inline]{Note: This could be foundation for development of design system}\n	If the system uses solar energy or waste heat to regenerate the liquid desiccant with potential for ground date to cool indoor air, more energy and operation costs can be saved\\cite{Yu2009}.\n\n	\\paragraph{Dedicated outdoor air systems with parallel sensible cooling by ceiling radiant panels}\n	DOAS systems run as all air system without return air to eliminate crossing of potentially inadequate indoor air quality from indoor air sources with lower energy use from cooling ceiling technology and higher heat exchanger efficiencies over conventional air conditioning system.  Energy savings can be as high as 42\\% electrical energy use over conventional VAV system \\cite{Jeong2003}\\ret\n\n\\subsection{Physical Characteristics of \\gls{hbs}}\n	\\subsubsection{Surface Vapor Pressure}\n	Desiccants attract moisture because of a difference in vapor pressure\\cite{Ahmed1998}.\\\\\n	Cool dry desiccants have very low surface vapor pressure when compared with vapor pressure of humid air\\cite{Ahmed1998}.\\\\\n	Desired hygroscopic salts properties that cannot be fully satisfied by a single hygroscopic salt\\cite{Ahmed1998}.\n	The vapor pressure difference between the air and the desiccant is the mass transfer (moisture transfer) driving force, which makes desiccant to absorb the moisture or deliver the moisture to the air\\cite{Liu2009}.\n		\\begin{itemize} \\itemsep0pt\\parskip0pt \\parsep0pt\n			\\item [$\\bullet$]Low vapor pressure\n			\\item [$\\bullet$]High elevation of boiling point\n			\\item [$\\bullet$]High latent heat of condensation and dilution heat\n			\\item [$\\bullet$]Low crystallization point\n			\\item [$\\bullet$]Easy handling at low temperature\n			\\item [$\\bullet$]Low viscosity\n			\\item [$\\bullet$]High density\n			\\item [$\\bullet$]Low cost\n		\\end{itemize}\n	\\subsubsection{Performance and Cost of Hygroscopic Brine Solution}\n		Hygroscopic salt performance is dependent on the following characteristics:\n			\\begin{itemize} \\itemsep0pt\\parskip0pt \\parsep0pt\n			\\item [$\\bullet$]Boiling point elevation\n			\\item [$\\bullet$]Energy storage density\n			\\item [$\\bullet$]Regeneration temperature\n			\\item [$\\bullet$]Thermophysical properties\n			\\item [$\\bullet$]Availability of material\n			\\item [$\\bullet$]Cost\n		\\end{itemize}\n		Issues:\n		\\begin{itemize} \\itemsep0pt\\parskip0pt \\parsep0pt\n			\\item [$\\bullet$]Pure expensive desiccants such as lithium chloride salts is a cost concern\n			\\item [$\\bullet$]Alternatives such as calcium chlorides and zinc chloride salts costs less than lithium chloride or lithium bromide\\cite{Ahmed1998}.\n		\\end{itemize}\n		In terms of stability the following is a list of most stable to least stable including cost\n			\\begin{itemize} \\itemsep0pt\\parskip0pt \\parsep0pt\n				\\item [$\\bullet$]Lithium chloride most stable with large dehydration concentration of 30 to 40\\% and high cost at \\$8.00 per 16.00 kg\n				\\item [$\\bullet$]Lithium chloride can reduce relative humidity by up to 60\\%\\cite{Ahmed1998}.\n				\\item [$\\bullet$]Calcium chloride is the least stable and cheapest hygroscopic salt at about 40 cents per kilogram with high availability\n				\\begin{itemize} \\itemsep0pt\\parskip0pt \\parsep0pt\n				\\item [$\\bullet$]Dependent on air inlet conditions and salt concentration in the hygroscopic brine solution.\n				\\item [$\\bullet$]Calcium chloride has high vapor pressure\\cite{Ahmed1998}.\n				\\end{itemize}	\n			\\end{itemize}\n		Studies have been made to evaluate the performance and cost benefit of mixing hygroscopic salts in a solution of water to produce a maximum depression of surface vapor pressure\n			\\begin{itemize} \\itemsep0pt\\parskip0pt \\parsep0pt\n				\\item [$\\bullet$]Performance indicates that it is possible to arrive at lower surface vapor pressures from a mixture of hygroscopic salts in solution than separately\\cite{Ahmed1998}.\n				\\item [$\\bullet$]Calcium chloride hygroscopic salt can be more stable if mixed with a higher performing stable hygroscopic salt in specific mixtures that balance cost and performance\n			\\end{itemize}\n\n		% Table generated by Excel2LaTeX from sheet 'Building'\n		\\begin{table}[H]\n		  \\centering\n		  \\caption{Best neutral salts mixtures for hygroscopic brine solution}\n		    \\begin{tabular}{rr}\n		    \\toprule\n		    Hygroscopic Salt Mixture &  Mixture Characteristics  \\\\\n		    \\midrule\n		    LiCl and CaCl &  High toxicity, high performance, high heat, and not benign  \\\\\n		    NaCl and CaCl &  Low low toxicity, lower performance, high heat, and benign  \\\\\n		    \\bottomrule\n		    \\end{tabular}%\n		  \\label{tab:addlabel}%\n		\\end{table}%\n\\subsubsection{Characteristics of Counterflow System}\n		\\begin{figure}[H]\n			\\centering\n			\\includegraphics[width=0.5\\textwidth]{fig_internallycooled}\n			\\caption{Internally Cooled System}\\label{fig:internallycooled}\n		\\end{figure}\n		\\todo[color=digiblue!15, bordercolor=black!0, inline]{Adapt image for project use}\n		\\begin{figure}[H]\n			\\centering\n			\\includegraphics[width=0.5\\textwidth]{fig_flowpatterninterncooled}\n			\\caption{Internally Cooled Flow Pattern}\\label{fig:internallycooledflowpattern}\n		\\end{figure}\n		\\todo[color=digiblue!15, bordercolor=black!0, inline]{Adapt image for project use}\n			\\begin{figure}[H]\n				\\centering\n				\\includegraphics[width=1\\textwidth]{fig_controlelementinterncooled}\n				\\caption{Schematic Control Element Internally Cooled Element}\\label{fig:controlelementinterncooled}\n			\\end{figure}\n		\\paragraph{System Operating Characteristics}\n		In the liquid desiccant air-conditioning system, air is dehumidified by directly contacting the concentrated solution in the dehumidifier\\cite{Liu2009}.\\\\\n\n		and the diluted solution from the dehumidifier will come to the regenerator to be re-concentrated. Low grade heat can be utilized to regenerate the desiccants, such as solar energy or waste heat\\cite{Liu2009}.\\\\\n\n		The dehumidifier is one of the key components in liquid desiccant air- conditioning systems, which can be divided into adiabatic type and internally cooled type according to the fact whether it has extra cooling fluid or not\\cite{Liu2009}.\n			\\begin{itemize} \\itemsep0pt\\parskip0pt \\parsep0pt\n				\\item [$\\bullet$]In the adiabatic dehumidifier, only air and desiccant these two fluids exchange heat and mass (moisture content).\\cite{Liu2009}.\n				\\item [$\\bullet$]Extra cooling fluid is introduced to cool the desiccant in the internally cooled dehumidifier, which can be cooling water, cooling air\\cite{Liu2009}.\n				\\item [$\\bullet$]The internally cooled dehumidifier may have better mass transfer performance than the adiabatic type [3], since the desiccant is cooled synchronously, and thus maintain the desiccant low surface vapor pressure, as it contacts the humid air\\cite{Liu2009}.\n			\\end{itemize}\n		The desiccant directly contacts the humid air in the internally cooled dehumidifier, and the heat and mass transfer processes occur between the desiccant and the air. The desiccant is cooled synchronously through indirectly contacting with the cooling fluid. Since the heat and mass transfer theoretical model is about the same for different flow patterns\\cite{Liu2009}.\n		\\paragraph{System Advantages}\n		 the similar flow-pattern dehumidifiers are tested, in which the flow direction of air to desiccant is counter- flow and the flow direction of cooling fluid to desiccant is cross- flow\\cite{Liu2009}.\\\\\n\n		 Lowenstein et al experimentally tests the performance of a kind of cross-flow dehumidifier, in which the cooling water is in parallel-flow to the desiccant\\cite{Liu2009}.\\\\\n\n		 Khan establishes the heat and mass transfer model of an internally cooled dehumidifier, in which air is in cross-flow to the desiccant and the cooling water (or refrigerant) is also in cross-flow to the desiccant. Several important parameters which strongly influenced the dehumidifier performance are identified based on the numerically solved two- dimensional steady state model. One-dimensional difference equations are used by Ren et al. to describe the heat and mass transfer performance in the internally cooled dehumidifier with parallel/counter-flow configurations\\cite{Liu2009}.\\\\\n\n		 However, in the internally cooled dehumidifier, the mass flow rate ratio of air to desiccant is about one order of magnitude larger. The mass transfer driving force distributions in the internally cooled dehumidifier at parallel-flow and counter-flow configurations\\cite{Liu2009}.\\\\\n\n		 the mass transfer performance of the counter-flow configuration (Types B1 and B2) is the best, and the parallel-flow configuration (Type A) is the worst, and cross-flow configuration (Types C1, C2 and C3) is among the counter-flow and parallel-flow types within the same operating conditions\\cite{Liu2009}.\\\\\n\n		 For the internally cooled dehumidifier, counter-flow config- uration (flow direction of air to desiccant) has the best dehumidification performance, parallel-flow configuration is the poorest, and the performance of cross-flow configuration is among the counter-flow and parallel-flow configurations at the same operating conditions\\cite{Liu2009}.\\\\\n\n		 desiccant concentration for the internally cooled dehumidifier, and the desiccant temperature for the adiabatic dehumidifier. Less desiccant flow rate can be adopted in the internally cooled dehumidifier, which is about an order of magnitude less than that in the adiabatic dehumidifier\\cite{Liu2009}.\\\\\n\n		 Internally cooled dehumidifier has better mass transfer performance compared with adiabatic dehumidifier plus external heat exchanger, due to less heat transfer process and less desiccant mixing loss in the internally cooled dehumidifier\\cite{Liu2009}.\\\\\n\n\\cite{}\n\\setcounter{section}{\\value{resetsection}} %reset section numbering using value of resetcounter\n\\cleardoublepage",
+			"\\paragraph{System Advantages}",
+			"All Options",
+			"verification",
+			"class",
+			"\\^2",
+			"equation",
+			"Vellux",
+			"Controller:OutdoorAir",
+			"controller:outdoorair",
+			"!-",
+			",",
+			"sm_/s",
+			"CpGen",
+			"m3",
+			"m2",
+			"kWh/m2",
+			"°",
+			"& TRUE  ",
+			"epc",
+			"Physical Material Data",
+			"Thermal Material Data",
+			"Thermal roperties for Architectural System Data",
+			"Thermal roperties for Architectural System Dat",
+			"Thermal Architectural System Data",
+			"&",
+			"\\notes",
+			"todototoc",
+			"todo",
+			"\\notes",
+			"ecotect",
+			"[htbp]",
+			"width=1",
+			"1",
+			"ç",
+			"\\contam\\",
+			"\\comtam\\",
+			"ç",
+			"a\\=",
+			"a=",
+			"[htbp]",
+			"Hours",
+			"Maximum",
+			"Temperature",
+			"FLOORZONES",
+			"SUMMER DESIGN DAY IN CLARK HOWELL RESIDENCE HALL GT",
+			"[htbp]",
+			"1",
+			"0.75",
+			"0.8",
+			"1",
+			"hvac",
+			"[htbp]",
+			"\\cleardoublepage",
+			"small",
+			"Btu/ft\\^2",
+			"$W /cdot h/m^2$",
+			"$W$/cdot$h/m^2$",
+			"pdf",
+			"pdflscape",
+			"W*h/m\\^2",
+			"width=0.5",
+			"width=1",
+			"gypboard",
+			"mtl",
+			"gypbd",
+			"m\\^2",
+			"ft\\^3",
+			"ft\\^2",
+			"*",
+			"[htbp]\n",
+			"Equest",
+			"\\cdot",
+			"\"",
+			"m\\^2",
+			"ft\\^2",
+			"w/ft\\^2",
+			"$w/ft\\^2$",
+			"m\\^3",
+			"ft\\^3",
+			"W/m\\^2",
+			"*",
+			"[htbp]",
+			"Therm",
+			"three",
+			"$\\cdot$  ",
+			"{$\\bullet$ ",
+			"\\subsection",
+			" [$\\",
+			"\\subsection{",
+			"\\\\",
+			"\\atab ",
+			"\\atab",
+			"\\hspace{0.85cm}",
+			"\\bullet",
+			"toc",
+			"ahtt1",
+			"ahtt10",
+			"equilibrium",
+			"comfort",
+			"thermal comfort",
+			"pscho",
+			"pshyro",
+			"heat transfer",
+			"heat",
+			"variables",
+			"dentim",
+			"bid",
+			"okada"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"######",
+			"####",
+			"######",
+			"$^2$",
+			"VELUX",
+			"!",
+			"",
+			"s$m^3$/s",
+			"Cp Generator",
+			"$m^3$",
+			"$m^2$",
+			"$kWh/m^2$",
+			"$^{\\circ}$",
+			"",
+			"Physical Properties of Material Data",
+			"Thermal Properties of Material Data",
+			"Thermal Properties of Architectural System Data",
+			"Thermal Properties for Architectural System Data",
+			"Thermal roperties for Architectural System Data",
+			"[H]",
+			"width=0.65",
+			"0.65",
+			"c",
+			"contam/",
+			"c",
+			"a=",
+			"a\\=",
+			"[H]",
+			"Hrs.",
+			"Max.",
+			"Temp.",
+			"",
+			"SUMMER DESIGN DAY",
+			"[H]",
+			"0.65",
+			"0.75",
+			"0.8",
+			"[H]",
+			"$Btu/ft\\^2$",
+			"$W\\cdoth/m^2$",
+			"$W /cdot h/m^2$",
+			"$W$/cdot$h/m^2$",
+			"width=0.45",
+			"width=0.5",
+			"gypsum board",
+			"metal",
+			"gypsum board",
+			"$m^2$",
+			"$ft^3$",
+			"$ft^2$",
+			"$ft^2",
+			"$\\cdot$",
+			"[H]",
+			"eQuest",
+			"$\\cdot$",
+			"''",
+			"$m^2$",
+			"$ft^2$",
+			"$w/ft^2$",
+			"$m^3$",
+			"$ft^3$",
+			"$W/m^2$",
+			"\\cdot",
+			"[H]",
+			"THERM",
+			"\\item [$\\bullet$]",
+			"[$\\bullet$]",
+			"	\\item ",
+			" [$\\",
+			"{\\hskip 2em}",
+			"",
+			"\\subsection",
+			"\\atab ",
+			"\\atab",
+			"$\\bullet$"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Test.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								446
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"apply_syntax_touched": true,
+							"auto_name": "Lorem ipsum dolor sit amet, consectetur adipisicin",
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 89.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Test.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/DigiBook/Latex/projects/GT_MS_Thesis/MS_Thesis.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
